@@ -1,4 +1,4 @@
 README
 ======
 
-Please see the README
+Please open this repo first
